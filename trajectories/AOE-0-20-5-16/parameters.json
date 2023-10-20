@@ -1,0 +1,25 @@
+{
+    "collaborative_algorithm": "AOE",
+    "reset_threshold_lower_bound": 0,
+    "reset_threshold_upper_bound": 20,
+    "starting_interval": 5,
+    "number_of_devices": 16,
+    "number_of_interactions": {
+        "Device 1": 114,
+        "Device 2": 64,
+        "Device 3": 93,
+        "Device 4": 114,
+        "Device 5": 161,
+        "Device 6": 106,
+        "Device 7": 92,
+        "Device 8": 72,
+        "Device 10": 42,
+        "Device 11": 70,
+        "Device 12": 84,
+        "Device 13": 9,
+        "Device 14": 37,
+        "Device 15": 33,
+        "Device 16": 39,
+        "Device 17": 53
+    }
+}
